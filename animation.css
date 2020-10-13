@@ -1,0 +1,29 @@
+@keyframes up {
+    from { /* Onde começa */
+        opacity: 0;
+        transform: translateY(16px);
+    }
+
+    to { /* Onde termina */
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-up {
+    animation-name: up;
+    animation-duration: 900ms;
+    animation-fill-mode: backwards;
+}
+
+.container{
+    animation-delay: 100ms;
+}
+
+.principal-film{
+    animation-delay: 250ms;
+}
+
+.carousel-films{
+    animation-delay: 400ms;
+}
