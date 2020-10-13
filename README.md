@@ -10,5 +10,5 @@
 
 ### Website link
 
-🌟  <a href="https://andersonskywalker.github.io/Project_Aniflix/" title="project_Aniflix" target="_blank">Aniflix</a>
+🌟  <a href="#" title="project_Aniflix" target="_blank">https://andersonskywalker.github.io/Project_Aniflix/</a>
 
